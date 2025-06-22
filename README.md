@@ -48,4 +48,3 @@ This site is built to reflect both my technical and creative sides. It serves as
 - [LinkedIn](https://linkedin.com/in/clement-samuel-marly-370aab256)
 - [GitHub](https://github.com/yourusername)
 - Email: clementsamuelm@gmail.com
-
