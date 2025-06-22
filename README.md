@@ -22,17 +22,17 @@ Welcome to my personal portfolio website! This is a React-based web application 
 
 ## 📁 Folder Structure
 
-/src
-/components
-Navbar.jsx
-About.jsx
-Projects.jsx
-Experience.jsx
-Footer.jsx
-/assets
-images, certificates, etc.
-App.jsx
-index.js
+- /src
+- /components
+- Navbar.jsx
+- About.jsx
+- Projects.jsx
+- Experience.jsx
+- Footer.jsx
+- /assets
+- images, certificates, etc.
+- App.jsx
+- index.js
 
 
 ## 🧠 Inspiration & Goals
