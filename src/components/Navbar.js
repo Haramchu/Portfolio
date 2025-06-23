@@ -23,7 +23,6 @@ export default function Navbar() {
           <Link to="/about" className="hover:text-blue-600 transition">About</Link>
           <Link to="/projects" className="hover:text-blue-600 transition">Projects</Link>
           <Link to="/experience" className="hover:text-blue-600 transition">Experience</Link>
-          <Link to="/contact" className="hover:text-blue-600 transition">Contact</Link>
           <Link to="/services" className="hover:text-blue-600 transition">Services</Link>
           <button
             onClick={() => setShowModal(true)}
