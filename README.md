@@ -39,10 +39,6 @@ Welcome to my personal portfolio website! This is a React-based web application 
 
 This site is built to reflect both my technical and creative sides. It serves as a central place for recruiters, collaborators, and fellow students to explore my work and get in touch.
 
-## 🖼️ Screenshot
-
-*(You can add a screenshot or preview image of the deployed site once done.)*
-
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/clement-samuel-marly-370aab256)
