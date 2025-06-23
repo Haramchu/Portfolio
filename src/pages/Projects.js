@@ -4,7 +4,7 @@ import { BiLinkExternal } from "react-icons/bi";
 
 export default function Projects() {
   return (
-    <div className="bg-gradient-to-br to-white min-h-screen py-12 px-4">
+    <div className="min-h-screen py-12 px-4">
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
