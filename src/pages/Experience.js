@@ -91,6 +91,16 @@ export default function Experience() {
         </ul>
       </div>
 
+      {/* COMPFEST Editorial Marketing */}
+      <div className="border p-6 rounded-lg shadow-sm space-y-2 bg-white">
+        <h3 className="text-lg font-semibold">Staff of Editorial Marketing – COMPFEST</h3>
+        <p className="text-sm text-gray-500">Jan 2024 – Dec 2024 · Depok, West Java, Indonesia · Hybrid</p>
+        <ul className="list-disc ml-5 text-gray-700 text-sm">
+          <li>Contributed articles to COMPFEST’s official Medium blog in both Indonesian and English.</li>
+          <li>Delivered high-quality, well-researched, and engaging content to support the event’s digital presence.</li>
+        </ul>
+      </div>
+
       <div className="border p-6 rounded-lg shadow-sm space-y-2 bg-white">
         <h3 className="text-lg font-semibold">Committee – Pesta Rakyat Komputer</h3>
         <p className="text-sm text-gray-500">Jan 2023 – May 2024 · Depok</p>
