@@ -31,7 +31,7 @@ export default function Home() {
         {/* Social Icons */}
         <div className="flex flex-wrap items-center gap-4 mt-4 text-gray-600 text-2xl">
           <a
-            href="https://github.com/YOUR_USERNAME"
+            href="https://github.com/haramchu"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-gray-900 transition"
