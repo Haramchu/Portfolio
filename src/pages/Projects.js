@@ -84,6 +84,14 @@ export default function Projects() {
           </p>
           <p className="text-sm text-gray-500">Tech: Spring Boot, React, Flutter, PostgreSQL, Docker</p>
           <p className="text-xs text-red-500 italic">Site offline – hosting expired</p>
+          <div className="mt-4">
+            <img
+              src={require("../assets/Apapmedika.png")}
+              alt="ApapMedika dashboard"
+              className="w-full h-40 sm:h-48 md:h-56 lg:h-80 object-contain rounded-md bg-gray-100"
+              style={{ maxWidth: "100%", height: "auto" }}
+            />
+          </div>
         </div>
 
         {/* RavenReads */}
@@ -94,6 +102,14 @@ export default function Projects() {
           </p>
           <p className="text-sm text-gray-500">Tech: Django, Flutter</p>
           <p className="text-xs text-red-500 italic">Site offline – hosting expired</p>
+          <div className="mt-4">
+            <img
+              src={require("../assets/ravenreads.png")}
+              alt="RavenReads"
+              className="w-full h-40 sm:h-48 md:h-56 lg:h-80 object-contain rounded-md bg-gray-100"
+              style={{ maxWidth: "100%", height: "auto" }}
+            />
+          </div>
         </div>
 
         {/* Gameshop */}
@@ -104,6 +120,14 @@ export default function Projects() {
           </p>
           <p className="text-sm text-gray-500">Tech: Django, Bootstrap, HTML</p>
           <p className="text-xs text-red-500 italic">Site offline – hosting expired</p>
+          <div className="mt-4">
+            <img
+              src={require("../assets/gameshop.png")}
+              alt="Gameshop"
+              className="w-full h-40 sm:h-48 md:h-56 lg:h-80 object-contain rounded-md bg-gray-100"
+              style={{ maxWidth: "100%", height: "auto" }}
+            />
+          </div>
         </div>
       </motion.div>
     </div>
