@@ -10,6 +10,18 @@ export default function Experience() {
     >
       <h2 className="text-2xl font-semibold mb-4">Experience</h2>
 
+      {/* tiket.com SDET Internship */}
+      <div className="border p-6 rounded-lg shadow-sm space-y-2 bg-white">
+        <h3 className="text-lg font-semibold">Software Developer Engineer in Test Intern – tiket.com</h3>
+        <p className="text-sm text-gray-500">Jul 2025 – Present · West Jakarta</p>
+        <ul className="list-disc ml-5 text-gray-700 text-sm">
+          <li>Contributed to quality assurance for Non-Flight Transportation modules across web and mobile.</li>
+          <li>Implemented automated tests using Java, Maven, TestNG, and CI/CD pipelines.</li>
+          <li>Performed functional and API testing using Postman; logged bugs using Jira and TestRail.</li>
+          <li>Collaborated with QA/dev teams to ensure UI/UX consistency and participated in agile sprints.</li>
+        </ul>
+      </div>
+
       {/* JerseyCorner */}
       <div className="border p-6 rounded-lg shadow-sm space-y-2 bg-white">
         <h3 className="text-lg font-semibold">Founder – JerseyCorner</h3>

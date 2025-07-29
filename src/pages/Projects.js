@@ -76,6 +76,16 @@ export default function Projects() {
           </div>
         </div>
 
+        {/* ApapMedika */}
+        <div className="border p-6 rounded-lg bg-white shadow hover:shadow-md transition space-y-3">
+          <h3 className="text-xl font-semibold">ApapMedika – Hospital Information System</h3>
+          <p className="text-gray-700">
+            Built a microservice-based hospital information system for managing appointments, billing, inpatient reservations, pharmacy, and insurance claims. Developed as a team project with full API documentation, front-end (web & mobile), and CI/CD integration.
+          </p>
+          <p className="text-sm text-gray-500">Tech: Spring Boot, React, Flutter, PostgreSQL, Docker</p>
+          <p className="text-xs text-red-500 italic">Site offline – hosting expired</p>
+        </div>
+
         {/* RavenReads */}
         <div className="border p-6 rounded-lg bg-white shadow hover:shadow-md transition space-y-3">
           <h3 className="text-xl font-semibold">RavenReads</h3>
