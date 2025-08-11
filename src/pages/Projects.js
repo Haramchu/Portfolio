@@ -76,6 +76,26 @@ export default function Projects() {
           </div>
         </div>
 
+        {/* Career Day Enrollment Platform */}
+        <div className="border p-6 rounded-lg bg-white shadow hover:shadow-md transition space-y-3">
+          <h3 className="text-xl font-semibold">Career Day Enrollment Platform – Canisius College</h3>
+          <p className="text-gray-700">
+            Developed a web platform for Canisius College’s Career Day to manage student talk/session enrollment.
+            Students could browse and enroll directly into talks via a React frontend with Supabase as the database.
+            Includes an admin panel for teachers to track enrollments, view capacity, and validate rules such as preventing double booking or joining full sessions.
+          </p>
+          <p className="text-sm text-gray-500">Tech: React, Supabase, Tailwind CSS</p>
+          <p className="text-xs text-green-600 italic">Deployed for internal school event</p>
+          <div className="mt-4">
+            <img
+              src={require("../assets/Career-day.png")}
+              alt="Career Day Enrollment Platform"
+              className="w-full h-40 sm:h-48 md:h-56 lg:h-80 object-contain rounded-md bg-gray-100"
+              style={{ maxWidth: "100%", height: "auto" }}
+            />
+          </div>
+        </div>
+
         {/* ApapMedika */}
         <div className="border p-6 rounded-lg bg-white shadow hover:shadow-md transition space-y-3">
           <h3 className="text-xl font-semibold">ApapMedika – Hospital Information System</h3>
