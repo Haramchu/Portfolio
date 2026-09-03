@@ -10,18 +10,6 @@ export default function Experience() {
     >
       <h2 className="text-2xl font-semibold mb-4">Experience</h2>
 
-      {/* tiket.com SDET Internship */}
-      <div className="border p-6 rounded-lg shadow-sm space-y-2 bg-white">
-        <h3 className="text-lg font-semibold">Software Developer Engineer in Test Intern – tiket.com</h3>
-        <p className="text-sm text-gray-500">Jul 2025 – Present · West Jakarta</p>
-        <ul className="list-disc ml-5 text-gray-700 text-sm">
-          <li>Contributed to quality assurance for Non-Flight Transportation modules across web and mobile.</li>
-          <li>Implemented automated tests using Java, Maven, TestNG, and CI/CD pipelines.</li>
-          <li>Performed functional and API testing using Postman; logged bugs using Jira and TestRail.</li>
-          <li>Collaborated with QA/dev teams to ensure UI/UX consistency and participated in agile sprints.</li>
-        </ul>
-      </div>
-
       {/* JerseyCorner */}
       <div className="border p-6 rounded-lg shadow-sm space-y-2 bg-white">
         <h3 className="text-lg font-semibold">Founder – JerseyCorner</h3>
@@ -30,6 +18,30 @@ export default function Experience() {
           <li>Founded an online store for vintage football jerseys (Ronaldo, Beckham, etc).</li>
           <li>Managed branding, sourcing, marketing, and customer service.</li>
           <li>Built presence via Instagram, TikTok, and Linktree.</li>
+        </ul>
+      </div>
+
+      {/* Information Systems Development Project Teaching Assistant */}
+      <div className="border p-6 rounded-lg shadow-sm space-y-2 bg-white">
+        <h3 className="text-lg font-semibold">Teaching Assistant – Information Systems Development Project</h3>
+        <p className="text-sm text-gray-500">Jan 2026 – Jun 2026 · University of Indonesia · Contract · Depok, West Java, Indonesia · Hybrid</p>
+        <ul className="list-disc ml-5 text-gray-700 text-sm">
+          <li>Assisted students in developing real-world information system projects for external clients using Scrum and sprint-based development methodologies.</li>
+          <li>Guided teams through requirement analysis, system design, implementation, and documentation.</li>
+          <li>Ensured adherence to sprint timelines, deliverables, and agile best practices.</li>
+          <li>Course code: CSIM603229</li>
+        </ul>
+      </div>
+
+      {/* tiket.com SDET Internship */}
+      <div className="border p-6 rounded-lg shadow-sm space-y-2 bg-white">
+        <h3 className="text-lg font-semibold">Software Developer Engineer in Test Intern – tiket.com</h3>
+        <p className="text-sm text-gray-500">Jul 2025 – Jan 2026 · West Jakarta</p>
+        <ul className="list-disc ml-5 text-gray-700 text-sm">
+          <li>Contributed to quality assurance for Non-Flight Transportation modules across web and mobile.</li>
+          <li>Implemented automated tests using Java, Maven, TestNG, and CI/CD pipelines.</li>
+          <li>Performed functional and API testing using Postman; logged bugs using Jira and TestRail.</li>
+          <li>Collaborated with QA/dev teams to ensure UI/UX consistency and participated in agile sprints.</li>
         </ul>
       </div>
 
